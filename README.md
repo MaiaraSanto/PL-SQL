@@ -1,9 +1,9 @@
 ```bash
---
+
 -- Seção 7 - Sintaxe e Diretrizes de um Bloco PL/SQL
 --
 -- Aula 1 - Sintaxe e Diretrizes de um Bloco PL/SQL
---
+
 
 -- Comentando o Código
 
