@@ -51,7 +51,7 @@ Exercícios feitos em PL/SQL da Oracle com atividades como:  Configurando o LIST
 
 - Blocos Aninhados e Escopo de Identificadores (variáveis e constantes);
 
-- Padrões de codificação sugeridos 9m Reproduzir;
+- Padrões de codificação, sugeridos 9m Reproduzir;
 
 - Utilizando comandos SQL no PL/SQL 4m Reproduzir;
 
